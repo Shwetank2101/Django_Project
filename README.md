@@ -1,2 +1,2 @@
 # Django_Project
-It a sample project to learn django
+This repository gives you basic idea of sample project in django along with learning.
